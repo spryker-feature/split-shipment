@@ -1,0 +1,11 @@
+{
+  "name": "spryker-feature/split-shipment",
+  "description": "Split Shipment [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker-feature/shipment": "~2018.11.0"
+  }
+}
