@@ -6,6 +6,6 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/shipment": "~2018.11.0"
+    "spryker-feature/shipment": "~2018.12.0"
   }
 }
