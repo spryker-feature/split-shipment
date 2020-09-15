@@ -4,8 +4,16 @@
   "type": "metapackage",
   "license": "proprietary",
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
-    "php": ">=7.1",
-    "spryker-feature/shipment": "^201902.0"
+    "php": ">=7.2"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "2018.x-dev"
+    }
+  },
+  "suggest": {
+    "spryker-feature/shipment": "Recommended feature dependency."
   }
 }
